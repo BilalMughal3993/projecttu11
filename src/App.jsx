@@ -1,11 +1,11 @@
 import React from 'react'
-// import Conp from "./Components/Conp"
-import DayChangeColor from './Components/DayChangeColor';
+// import DayChangeColor from './Components/DayChangeColor';
+import SimpleCalculator from './Components/SimpleCalculate/SimpleCalculator';
 const App = () => {
   return (
     <>
-    {/* <Conp/> */}
-    <DayChangeColor/>
+    <SimpleCalculator/>
+    {/* <DayChangeColor/> */}
    
     </>
   )
