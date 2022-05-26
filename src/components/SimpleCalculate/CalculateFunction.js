@@ -7,11 +7,11 @@ function subt(a,b){
     return sub;
 }
 function divi(a,b){
-    let div =  a+b;
+    let div =  a/b;
     return div;
 }
 function multi(a,b){
-    let mult =  a+b;
+    let mult =  a*b;
     return mult;
 }
 
